@@ -1,0 +1,16 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: aliceblue;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas {
+    border: 5px solid rgb(136, 210, 233);
+}
+
+body {
+    text-align: center;
+}
